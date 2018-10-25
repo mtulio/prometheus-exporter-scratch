@@ -1,0 +1,3 @@
+
+init:
+	dep init
